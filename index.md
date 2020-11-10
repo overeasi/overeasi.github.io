@@ -36,18 +36,18 @@ We are interested in your experience using the OverEasi Chatbot! If you would li
 
 ## Contact Us
 **Eric Lam**
-* Email: [lameric@hawaii.edu](lameric@hawaii.edu)
+* Email: lameric@hawaii.edu
 * [LinkedIn]()
 
 **Irene Ma**
-* Email: [mairene@hawaii.edu](mairene@hawaii.edu)
+* Email: mairene@hawaii.edu
 * [LinkedIn]()
 
 **Shane Severino**
-* Email: [shanesev@hawaii.edu](shanesev@hawaii.edu)
+* Email: shanesev@hawaii.edu
 * [LinkedIn]()
 
 **Alyssandra Cabading**
-* Email: [alyssand@hawaii.edu](alyssand@hawaii.edu)
-* [LinkedIn](www.linkedin.com/in/alyssandra-katrina-cabading-96a3841b4)
+* Email: alyssand@hawaii.edu
+* [LinkedIn](https://www.linkedin.com/in/alyssandra-katrina-cabading-96a3841b4/)
 
