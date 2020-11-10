@@ -41,7 +41,7 @@ We are interested in your experience using the OverEasi Chatbot! If you would li
 
 **Irene Ma**
 * Email: mairene@hawaii.edu
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/in/irene-ma-b22b96132/)
 
 **Shane Severino**
 * Email: shanesev@hawaii.edu
