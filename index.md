@@ -10,7 +10,7 @@
 * [Contact Us](#contact-us)
 
 ## Overview
-Although there’s a wide range of information on COVID-19 available on the internet, it can be difficult finding exactly what you need. There’s currently no simple way to find the most up-to-date and accurate information about COVID-19 for Hawaii residents and visitors. Even within just government-sponsored websites like https://hawaiicovid19.com/ and https://health.hawaii.gov/coronavirusdisease2019/, there is too much to look through. The call centers available are overloaded with people asking questions like “Where is the nearest testing center?” or “What do I do if my family member tested positive?”
+Although there’s a wide range of information on COVID-19 available on the internet, it can be difficult finding exactly what you need. There’s currently no simple way to find the most up-to-date and accurate information about COVID-19 for Hawaii residents and visitors. Even within just government-sponsored websites like [https://hawaiicovid19.com/](https://hawaiicovid19.com/) and [https://health.hawaii.gov/coronavirusdisease2019/](https://health.hawaii.gov/coronavirusdisease2019/), there is too much to look through. The call centers available are overloaded with people asking questions like “Where is the nearest testing center?” or “What do I do if my family member tested positive?”
 
 The goal of this application is to provide a one-stop-shop for COVID-19 information related to Hawaii. Besides the chatbot, which will incorporate the Dialogflow Google Cloud Service, we plan to implement two other pages accessible to the admin that allow for easy maintenance of this bot.
 
@@ -23,7 +23,7 @@ The user is prompted to the landing page containing the chatbox. Here they are a
 
 The admin has the ability to manage the chatbot by adding more intents, which are phrases that the chatbot uses as response to a particular user input. Admin can also edit and delete any intents.
 
-The admin will also have access to a statistic tab that reveal which intents have been encountered the most. The statistic will be in a form of a pi chart, exhibiting the frequency of intents across all user sessions with the chatbot. This helps the admin see which type of information about Covid-19 people seek out the most.
+The admin will also have access to a statistic tab that reveal which intents have been encountered the most. The statistic will be in a form of a pie chart, exhibiting the frequency of intents across all user sessions with the chatbot. This helps the admin see which type of information about Covid-19 people seek out the most.
 
 To gain feedback with the user experience, the users have the ability to review how a session went and report any problems. These results would be displayed in the admin’s statistics page.
 
@@ -37,17 +37,17 @@ We are interested in your experience using the OverEasi Chatbot! If you would li
 ## Contact Us
 **Eric Lam**
 * Email: lameric@hawaii.edu
-* [LinkedIn]()
+* [Portfolio](https://airyclam.github.io/)
 
 **Irene Ma**
 * Email: mairene@hawaii.edu
-* [LinkedIn](https://www.linkedin.com/in/irene-ma-b22b96132/)
+* [Portfolio](https://irene-ma.github.io/)
 
 **Shane Severino**
 * Email: shanesev@hawaii.edu
-* [LinkedIn]()
+* [Portfolio](https://shane-sev.github.io/)
 
 **Alyssandra Cabading**
 * Email: alyssand@hawaii.edu
-* [LinkedIn](https://www.linkedin.com/in/alyssandra-katrina-cabading-96a3841b4/)
+* [Portfolio](https://alyssandra-cabading.github.io/)
 
