@@ -1,4 +1,5 @@
 # OverEasi
+![](doc/banner.png)
 
 ## Table of contents
 
@@ -29,7 +30,7 @@ To gain feedback with the user experience, the users have the ability to review 
 
 
 ## Community Feedback
-We are interested in your experience using the OverEasi Chatbot! If you would like, please take a couple of minutes to fill out the OverEasi Chatbot Form. This will help us understand how to better provide for your service.
+We are interested in your experience using the OverEasi Chatbot! If you would like, please take a couple of minutes to fill out the [OverEasi Chatbot Form](https://docs.google.com/forms/d/e/1FAIpQLSfKiap-pzjMusGuSkQ-0-TxT3dWRsufpFz8Dt9r2gEDj4eLyA/viewform?usp=sf_link). This will help us understand how to better provide for your service.
 
 ## Developer Guide
 ## Development History
