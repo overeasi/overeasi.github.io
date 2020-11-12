@@ -21,14 +21,17 @@ The goal of this application is to provide a one-stop-shop for COVID-19 informat
 ## User Guide
 #### Landing Page
 
-![](doc/landing-page.png)
 The user is prompted to the landing page containing the chatbox. Here they are able to make a query to get information pertaining to Covid-19. This can include location of testing centers, symptoms of Covid-19, traveling out of state, etc.
+![](doc/landing-page.png)
+
 
 #### Add Intents
 The admin has the ability to manage the chatbot by adding more intents, which are phrases that the chatbot uses as response to a particular user input. Admin can also edit and delete any intents.
+![](doc/addintents.png)
 
 ####  List Intents
 The admin will also have access to a statistic tab that reveal which intents have been encountered the most. The statistic will be in a form of a pie chart, exhibiting the frequency of intents across all user sessions with the chatbot. This helps the admin see which type of information about Covid-19 people seek out the most.
+![](doc/listintents.png)
 
 #### User Feedback
 To gain feedback with the user experience, the users have the ability to review how a session went and report any problems. These results would be displayed in the admin’s statistics page.
