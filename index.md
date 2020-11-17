@@ -27,11 +27,11 @@ The user is prompted to the landing page containing the chatbox. Here they are a
 
 #### Add Intents
 The admin has the ability to manage the chatbot by adding more intents, which are phrases that the chatbot uses as response to a particular user input. Admin can also edit and delete any intents.
-![](doc/addintent.png)
+![](doc/addIntent.png)
 
 ####  List Intents
 The admin will also have access to a statistic tab that reveal which intents have been encountered the most. The statistic will be in a form of a pie chart, exhibiting the frequency of intents across all user sessions with the chatbot. This helps the admin see which type of information about Covid-19 people seek out the most.
-![](doc/listintent.png)
+![](doc/listIntent.png)
 
 #### User Feedback
 To gain feedback with the user experience, the users have the ability to review how a session went and report any problems. These results would be displayed in the admin’s statistics page.
