@@ -90,7 +90,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [OverEasi GitHub Project Board M1](https://github.com/overeasi/overeasi/projects/1):
 
-![](doc/milestone1.png)
+![](doc/m1.png)
 
 ##### Milestone 2
 
