@@ -22,15 +22,25 @@ The goal of this application is to provide a one-stop-shop for COVID-19 informat
 #### Landing Page
 
 The user is prompted to the landing page containing the chatbox. Here they are able to make a query to get information pertaining to Covid-19. This can include location of testing centers, symptoms of Covid-19, traveling out of state, etc.
+
 ![](doc/landing.png)
+
+#### Admin Login
+Located at the upper right corner of the navbar is a Login designed specially for Admin use. One must have been previously registered as an admin with the system to use this option:
+
+![](doc/login.png)
+
+
 
 
 #### Add Intents
 The admin has the ability to manage the chatbot by adding more intents, which are phrases that the chatbot uses as response to a particular user input. Admin can also edit and delete any intents.
+
 ![](doc/addIntent.png)
 
 ####  List Intents
 The admin will also have access to a statistic tab that reveal which intents have been encountered the most. The statistic will be in a form of a pie chart, exhibiting the frequency of intents across all user sessions with the chatbot. This helps the admin see which type of information about Covid-19 people seek out the most.
+
 ![](doc/listIntent.png)
 
 #### User Feedback
@@ -38,13 +48,16 @@ To gain feedback with the user experience, the users have the ability to review 
 
 #### Report Submission
 Might a user experience technical difficulties or an issue related to the OverEasi chatbot, they are able to submit a report. 
+
 ![](doc/reportButton.png)
 
 The "Report a problem" button will redirect them to a page that allows them to enter the issue, as well as their name and email.
+
 ![](doc/addReport.png)
 
 #### View Report (Admin)
 The admin will have access to all the reports submitted. They will have the ability to delete each issue listed if they have been resolved.
+
 ![](doc/listReport.png)
 
 ## Community Feedback
@@ -52,14 +65,38 @@ We are interested in your experience using the OverEasi Chatbot! If you would li
 
 ## Developer Guide
 
-## Development History
-##### Milestone 1
+This project uses meteor to run the site, so first [install meteor](https://www.meteor.com/install) onto your OS:
 
-_Coming soon_...
+OSX/Linux
+
+    curl https://install.meteor.com/ | sh
+
+Windows
+
+    choco install meteor
+
+After installing meteor and cloning the repository onto your local computer, cd into the app/ directory and install third party libraries with:
+
+    $ meteor npm install
+
+Now you can run the system with:
+
+    $ meteor npm run start
+
+The app should now be running at [http://localhost:3000/](http://localhost:3000/).
+## Development History
+##### Milestone 1: Mockup and Data Model Development
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages. In addition, we began phase 1 of implementing the data model. This included the set of Mongo Collections (Reports, Intents, Messages) and the operations supporting additional features of the OverEasi app. The most notable milestone was the implementation of DialogFlow that enabled the functionality of the chatbot itself.
+
+Milestone 1 was managed using [OverEasi GitHub Project Board M1](https://github.com/overeasi/overeasi/projects/1):
+
+![](doc/milestone1.png)
 
 ##### Milestone 2
 
-_Coming soon_...
+Milestone 2 is currently managed using [OverEasi GitHub Project Board M2](https://github.com/overeasi/overeasi/projects/2).
+
+_More coming soon_...
 
 ##### Milestone 3
 
