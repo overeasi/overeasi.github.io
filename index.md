@@ -4,9 +4,9 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
-* [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
@@ -19,6 +19,10 @@ The goal of this application is to provide a one-stop-shop for COVID-19 informat
 1. An “Add Intents” page that enables the admin to fill out a form with fields such as “Intent Name”, “Training Phrases”, and “End Response”.
 2. A “View Intents” page that enables the admin to view all intents currently supported by the bot. On this page they may also select an “edit” button redirecting them to a form in which they can edit the different fields, as well as a “delete” button to delete the selected intent.
 3. A "View Reports" page that files all the reports submitted by users which the admin has the ability to delete once resolved.
+
+## Deployment
+
+This project is deployed [here](https://overeasi.me/#/).
 
 ## User Guide
 
@@ -66,10 +70,6 @@ The admin will have access to all the reports submitted. They will have the abil
 
 ## Community Feedback
 We are interested in your experience using the OverEasi Chatbot! If you would like, please take a couple of minutes to fill out the [OverEasi Chatbot Form](https://docs.google.com/forms/d/e/1FAIpQLSfKiap-pzjMusGuSkQ-0-TxT3dWRsufpFz8Dt9r2gEDj4eLyA/viewform?usp=sf_link). This will help us understand how to better provide for your service.
-
-## Deployment
-
-This project is deployed [here](https://overeasi.me/#/).
 
 ## Developer Guide
 
