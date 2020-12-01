@@ -6,6 +6,7 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
+* [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
@@ -65,6 +66,10 @@ The admin will have access to all the reports submitted. They will have the abil
 
 ## Community Feedback
 We are interested in your experience using the OverEasi Chatbot! If you would like, please take a couple of minutes to fill out the [OverEasi Chatbot Form](https://docs.google.com/forms/d/e/1FAIpQLSfKiap-pzjMusGuSkQ-0-TxT3dWRsufpFz8Dt9r2gEDj4eLyA/viewform?usp=sf_link). This will help us understand how to better provide for your service.
+
+## Deployment
+
+This project is deployed [here](https://overeasi.me/#/).
 
 ## Developer Guide
 
