@@ -4,4 +4,4 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/overeasi/overeasi
-  zip_url: https://github.com/overeasi
+  organization_url: https://github.com/overeasi
