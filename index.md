@@ -93,18 +93,18 @@ Now you can run the system with:
 
 The app should now be running at [http://localhost:3000/](http://localhost:3000/).
 ## Development History
-##### Milestone 1: Mockup and Data Model Development
+##### Milestone 1: Mockup and Data Model Development I
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages. In addition, we began phase 1 of implementing the data model. This included the set of Mongo Collections (Reports, Intents, Messages) and the operations supporting additional features of the OverEasi app. The most notable milestone was the implementation of DialogFlow that enabled the functionality of the chatbot itself.
 
 Milestone 1 was managed using [OverEasi GitHub Project Board M1](https://github.com/overeasi/overeasi/projects/1):
 
 ![](doc/m1.png)
 
-##### Milestone 2
+##### Milestone 2: Data Model Development II
+The goal of Milestone 2 was to make finishing touches to the data model and significantly improve the functionality and quality of our application. This included the testing of all pages using the TestCafe. This ensured that all pages of the application are displayed properly and each respective forms (Add Report, Add Intent, Sign-In, Sign-UP, etc.) operate correctly with legal inputs.
 
-Milestone 2 is currently managed using [OverEasi GitHub Project Board M2](https://github.com/overeasi/overeasi/projects/2).
+Milestone 2 was managed using [OverEasi GitHub Project Board M2](https://github.com/overeasi/overeasi/projects/2).
 
-_More coming soon_...
 
 ##### Milestone 3
 
