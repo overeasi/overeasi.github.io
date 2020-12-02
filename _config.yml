@@ -3,4 +3,5 @@ description: An OverEasi Application
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://github.com/overeasi
+  repository_url: https://github.com/overeasi/overeasi
+  organnization_url: https://github.com/overeasi
