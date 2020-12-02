@@ -101,7 +101,7 @@ Milestone 1 was managed using [OverEasi GitHub Project Board M1](https://github.
 ![](doc/m1.png)
 
 ##### Milestone 2: Data Model Development II
-The goal of Milestone 2 was to make finishing touches to the data model and significantly improve the functionality and quality of our application. This included the testing of all pages using the TestCafe. This ensured that all pages of the application are displayed properly and each respective forms (Add Report, Add Intent, Sign-In, Sign-UP, etc.) operate correctly with legal inputs.
+The goal of Milestone 2 was to make finishing touches to the data model and significantly improve the functionality and quality of our application. This included the testing of all pages using the TestCafe. This ensured that all pages of the application are displayed properly and each respective forms (Add Report, Add Intent, Sign-In, Sign-Up, etc.) operate correctly with legal inputs.
 
 Milestone 2 was managed using [OverEasi GitHub Project Board M2](https://github.com/overeasi/overeasi/projects/2).
 
