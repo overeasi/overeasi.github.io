@@ -71,6 +71,8 @@ The admin will have access to all the reports submitted. They will have the abil
 ## Community Feedback
 We are interested in your experience using the OverEasi Chatbot! If you would like, please take a couple of minutes to fill out the [OverEasi Chatbot Form](https://docs.google.com/forms/d/e/1FAIpQLSfKiap-pzjMusGuSkQ-0-TxT3dWRsufpFz8Dt9r2gEDj4eLyA/viewform?usp=sf_link). This will help us understand how to better provide for your service.
 
+Four out of five of the community members that had reviewed the deployment have rated the intuitiveness of the app to be a 5 star rating. Although these are promising results, there is undoubtedly room for future refinements. One major recommendation from the community members was expanding the accessibility of the app. In other words, it would be in our best interest to make it available on mobile devices, allowing users to utilize the app anywhere at anytime. A noteworthy proposal from the community members was the implementation of different language features for the chat-bot. This proposition served as an additional confirmation to put Dialogflow's language features to the test. As many of us know, Hawaii is a place filled with very diverse people, it makes perfect sense to reach and provide service to the entirety of that population. 
+
 ## Developer Guide
 
 This project uses meteor to run the site, so first [install meteor](https://www.meteor.com/install) onto your OS:
